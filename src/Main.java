@@ -7,6 +7,7 @@ public class Main {
         m.ptintMsg(lalkinshake);
         Thread.sleep(500);
         System.out.println("Now something has been done");
+        System.out.println("One more thing done");
     }
 }
 
